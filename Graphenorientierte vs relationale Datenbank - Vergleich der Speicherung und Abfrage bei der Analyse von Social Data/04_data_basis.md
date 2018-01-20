@@ -54,7 +54,11 @@ Speicherung in der jeweiligen DB
 Als Grundlage der beiden zu erstellenden Datenbanken wurde das folgende
 ER-Modell erstellt:
 
+<<<<<<< HEAD
 ![](media/06-er-modell_mse_mentions.png)
+=======
+![](../../../Desktop/Graphenorientierte%20vs%20relationale%20Datenbank%20-%20Vergleich%20der%20Speicherung%20und%20Abfrage%20bei%20der%20Analyse%20von%20Social%20Data/media/06-er-modell_mse_mentions.png)
+>>>>>>> upstream/master
 
 Abbildung 6: ER-Modell der zu importierenden Daten
 
@@ -69,7 +73,11 @@ jeglichen Metadaten, auch des Profils abgespeichert. Für eine bessere
 Vergleichbarkeit der relationalen Datenbank und der Graph Datenbank wurde für
 die Hausarbeit die Form der Einzeltabelle aufgebrochen.
 
+<<<<<<< HEAD
 ![](media/07-sql-tabellen.png)
+=======
+![](../../../Desktop/Graphenorientierte%20vs%20relationale%20Datenbank%20-%20Vergleich%20der%20Speicherung%20und%20Abfrage%20bei%20der%20Analyse%20von%20Social%20Data/media/07-sql-tabellen.png)
+>>>>>>> upstream/master
 
 Abbildung 7: Tabellen der relationalen Datenbank
 
@@ -90,7 +98,11 @@ Relationen zur Verfügung steht – in relationalen Datenbanken existiert ledigl
 das Konstrukt *Tabelle*. Somit entstanden die drei Entitäten *Profile*, *Post*
 und *Tag* und die drei Relationen *Published*, *Talks_about* und *Mentioned*.
 
+<<<<<<< HEAD
 ![](media/08-neo4j-db-schema.png)
+=======
+![](../../../Desktop/Graphenorientierte%20vs%20relationale%20Datenbank%20-%20Vergleich%20der%20Speicherung%20und%20Abfrage%20bei%20der%20Analyse%20von%20Social%20Data/media/08-neo4j-db-schema.png)
+>>>>>>> upstream/master
 
 Abbildung 8: Entitäten und Relationen in der Graph Datenbank
 
